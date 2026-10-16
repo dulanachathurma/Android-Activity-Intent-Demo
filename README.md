@@ -37,6 +37,12 @@ A simple, clean Android application built in Java to demonstrate core Android fu
 4. **Run on Emulator / Device**:
    - Select an emulator (e.g., Pixel 6 API 34) or connect a physical device via USB Debugging.
    - Click the green **Run (▶)** button or press `Shift + F10`.
+   
+---
+
+<p align="center">
+  ▶️ <b><a href="https://drive.google.com/file/d/1JX5wT5sE0r5a2v9ixpXxxpVdsPAkEa0l/view?usp=sharing">Click here to watch the Touchless Gesture & Voice Interactive System Video </a></b>
+</p>
 
 <img width="307" height="741" alt="Screenshot 2026-10-16 at 21 11 57" src="https://github.com/user-attachments/assets/c78e4d30-042d-42ee-b04c-39fed76ca5c8" />
 
