@@ -40,11 +40,11 @@ A simple, clean Android application built in Java to demonstrate core Android fu
 
 <img width="307" height="741" alt="Screenshot 2026-10-16 at 21 11 57" src="https://github.com/user-attachments/assets/c78e4d30-042d-42ee-b04c-39fed76ca5c8" />
 
-<img width="307" height="741" alt="Screenshot 2026-10-16 at 21 12 40" src="https://github.com/user-attachments/assets/6bb71985-9ce2-4fbd-a605-7b3f16248766" />
+<img width="307" height="741" alt="Screenshot 2026-10-16 at 21 12 14" src="https://github.com/user-attachments/assets/8e9b8f38-acfe-4b90-96b1-fff6abf08d58" />
 
 <img width="307" height="741" alt="Screenshot 2026-10-16 at 21 12 21" src="https://github.com/user-attachments/assets/efbc0ef1-d187-41b9-a052-3211c1b1f281" />
 
-<img width="307" height="741" alt="Screenshot 2026-10-16 at 21 12 14" src="https://github.com/user-attachments/assets/8e9b8f38-acfe-4b90-96b1-fff6abf08d58" />
+<img width="307" height="741" alt="Screenshot 2026-10-16 at 21 12 40" src="https://github.com/user-attachments/assets/6bb71985-9ce2-4fbd-a605-7b3f16248766" />
 
 ---
 
